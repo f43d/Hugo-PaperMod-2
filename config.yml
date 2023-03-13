@@ -136,9 +136,9 @@ params:
               url: tags
 
     homeInfoParams:
-        Title: "PaperMod"
+        Title: "十日痰"
         Content: >
-            Welcome to demo of hugo's theme PaperMod.
+            小你老頭.
 
             - **PaperMod** is a simple but fast and responsive theme with useful feature-set that enhances UX. This starter supports editing posts with NetlifyCMS, login at /admin. Most other configs (including this message!) happen in config.yml in the root directory.
 
