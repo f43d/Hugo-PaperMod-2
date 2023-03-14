@@ -2,7 +2,7 @@ baseURL: "/" # if your site is in 'https', then make sure your base url isn't wr
 title: PaperMod
 paginate: 5
 # theme: hugo-PaperMod
-theme: "PaperModX"
+theme: PaperModX
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
