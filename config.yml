@@ -140,13 +140,9 @@ params:
         Title: "十日痰"
         Content: >
 
-一個精神錯亂思想蕪雜的大叔 困在崩壞的小島上逃避疫情<br>記下結在喉嚨內想吐未吐的胡思亂想
+一個精神錯亂思想蕪雜的大叔，困在崩壞的小島上逃避疫情，記下結在喉嚨內想吐未吐的胡思亂想
 
-            - **PaperMod** is a simple but fast and responsive theme with useful feature-set that enhances UX. This starter supports editing posts with NetlifyCMS, login at /admin. Most other configs (including this message!) happen in config.yml in the root directory.
 
-            - Do give a 🌟 on Github !
-
-            - PaperMod is based on theme [Paper](https://github.com/nanxiaobei/hugo-paper).
 
     socialIcons:
         - name: github
