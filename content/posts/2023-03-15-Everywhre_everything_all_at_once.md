@@ -22,7 +22,7 @@ ShowRssButtonInSectionTermList: false
 UseHugoToc: false
 ---
 
-“哪怕是在一个蠢到家的宇宙里，所有人的手指都跟热狗肠一样，也总有些什么，值得你去爱，你还是想找到我，我就想待在你身边。”——《瞬息全宇宙》
+> 哪怕是在一個蠢到家的宇宙里，所有人的手指都跟熱狗腸一樣，也總有些什麼，值得你去愛，你還是想找到我，我就想待在你身邊。」——《瞬息全宇宙》
 
 ![IMG_3039](https://co.valent.bond/dllm/IMG_3039.JPG)
 ![IMG_3039](https://co.valent.bond/dllm/IMG_3040.JPG)
