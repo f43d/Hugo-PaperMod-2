@@ -1,5 +1,5 @@
 baseURL: "/" # if your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
-title: 我的 Title
+title: 十日痰
 paginate: 5
 # theme: hugo-PaperMod
 theme: PaperModX
@@ -137,9 +137,9 @@ params:
               url: tags
 
     homeInfoParams:
-        Title: "十日痰"
+        Title: "一個精神錯亂思想蕪雜的大叔"
         Content: >
-            一個精神錯亂思想蕪雜的大叔，困在崩壞的小島上逃避疫情，記下結在喉嚨內想吐未吐的傷感
+            困在崩壞的小島上逃避疫情，記下結在喉嚨內想吐未吐的胡思亂想
 
 
     socialIcons:
