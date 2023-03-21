@@ -3,7 +3,7 @@ title: 十日痰
 paginate: 5
 theme: PaperModX
 # NOTE remove this line if you copy exampleSite outof hugo-PaperModX
-#themesdir: ../..
+themesdir: ../..
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
