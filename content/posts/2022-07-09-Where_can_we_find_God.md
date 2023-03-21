@@ -50,4 +50,4 @@ We will rise to meet him.
 
 Let us pray.
 
-![IMG_0497](co.valent.bond/dllm/IMG_0497.JPG)
+![IMG_0497](https://co.valent.bond/dllm/IMG_0497.JPG)
