@@ -21,11 +21,11 @@ ShowWordCount: false
 ShowRssButtonInSectionTermList: false
 UseHugoToc: false
 ---
-We face danger.
-We face evil, which stands at the gate of our most holy sanctuary. 
-God is with us, as we know. 
-God's love is eternal. This we know too. 
-Tonight, in our most deadly hour, do we think our God will remember us? 
+We face danger.  
+We face evil, which stands at the gate of our most holy sanctuary.  
+God is with us, as we know.  
+God's love is eternal. This we know too.  
+Tonight, in our most deadly hour, do we think our God will remember us?  
 Will he reach down and save us from death's shadow? 
 No. No, he will not. 
 Where in our world is God to be found? 
