@@ -137,18 +137,16 @@ params:
               url: tags
 
     homeInfoParams:
-        Title: "一個精神錯亂思想蕪雜的大叔<br>困在崩壞的小島上逃避疫情。<br>記下結在喉嚨內想吐未吐的胡思亂想"
+        Title: "一個精神錯亂思想蕪雜的大叔<br>困在崩壞的小島上逃避疫情<br>記下結在喉嚨內想吐未吐的胡思亂想"
         Content: >
-            困在崩壞的小島上逃避疫情，記下結在喉嚨內想吐未吐的胡思亂想
 
-
-    socialIcons:
-        - name: github
-          url: "https://github.com/adityatelange/hugo-PaperMod"
-        - name: KoFi
-          url: "https://ko-fi.com/adityatelange"
-        - name: Rss
-          url: "index.xml"
+#    socialIcons:
+#        - name: github
+#          url: "https://github.com/adityatelange/hugo-PaperMod"
+#        - name: KoFi
+#          url: "https://ko-fi.com/adityatelange"
+#        - name: Rss
+#          url: "index.xml"
 
     editPost:
         URL: "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
