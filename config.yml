@@ -108,7 +108,15 @@ params:
     description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
     author: Theme PaperMod
     # author: ["Me", "You"] # multiple authors
-
+    # copy from PaperModX sample config.yml
+    mainSections:
+    - docs
+    - posts
+  disableAnchoredHeadings: true
+  images: ["cover.png"]
+  DateFormat: "2006-01-02"
+  useCustomAnalytics: true
+    # end copy form PaperModX sample config.yml
     defaultTheme: auto
     # disableThemeToggle: true
     ShowShareButtons: true
