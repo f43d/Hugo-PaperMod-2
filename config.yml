@@ -3,7 +3,8 @@ title: 十日痰
 paginate: 5
 # theme: hugo-PaperMod
 theme: PaperModX
-
+    #Also copy from example site
+themesdir: ../..
 enableInlineShortcodes: true
 enableRobotsTXT: true
 buildDrafts: false
@@ -107,7 +108,7 @@ params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     description: "一個中年大叔的無病呻"
     author:
-    #- Theme PaperMod
+    - 翁強
     # author: ["Me", "You"] # multiple authors
     # copy from PaperModX sample config.yml
     #mainSections:
