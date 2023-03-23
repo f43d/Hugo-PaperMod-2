@@ -116,7 +116,7 @@ params:
     #- posts
   disableAnchoredHeadings: true
   images: ["cover.png"]
-  DateFormat: "2006-01-02"
+  DateFormat: "Mon,02 Jan 2006"
   useCustomAnalytics: true
     # end copy form PaperModX sample config.yml
     defaultTheme: auto
