@@ -1,4 +1,4 @@
-baseURL: "/" # if your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
+baseURL: "https://dllm.site" # if your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
 title: 十日痰
 paginate: 5
 # theme: hugo-PaperMod
@@ -105,13 +105,14 @@ outputs:
 
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
-    author: Theme PaperMod
+    description: "一個中年大叔的無病呻"
+    author:
+    #- Theme PaperMod
     # author: ["Me", "You"] # multiple authors
     # copy from PaperModX sample config.yml
-    mainSections:
-    - docs
-    - posts
+    #mainSections:
+    #- docs
+    #- posts
   disableAnchoredHeadings: true
   images: ["cover.png"]
   DateFormat: "2006-01-02"
@@ -121,6 +122,7 @@ params:
     # disableThemeToggle: true
     ShowShareButtons: true
     ShowReadingTime: true
+    ShowWordCount: true
     # disableSpecial1stPost: true
     displayFullLangName: true
     ShowPostNavLinks: true
