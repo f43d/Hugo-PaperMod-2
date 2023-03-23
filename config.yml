@@ -107,8 +107,8 @@ outputs:
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     description: "一個中年大叔的無病呻"
-    author:
-    - 翁強
+    # author:
+    # 翁強
     # author: ["Me", "You"] # multiple authors
     # copy from PaperModX sample config.yml
     #mainSections:
